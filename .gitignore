@@ -1,0 +1,14 @@
+venv
+build
+dist
+*.egg-info
+
+*.idea
+
+build-notes.txt
+
+*.pyc
+
+.DS_Store
+
+.env
