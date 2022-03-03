@@ -13,7 +13,7 @@ setup(
         'Topic :: Software Development :: Libraries :: Python Modules',
         'Topic :: Text Processing',
     ],
-    license='Apple Internal',
+    license='MIT',
     python_requires='>=3.7',
     test_suite="tests.test_suite"
 )
